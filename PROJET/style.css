@@ -1,0 +1,142 @@
+body{
+   background: url('/Users/ODEFI-2/Desktop/background.png');
+    padding: 0;
+    margin: 0;
+
+}
+body .page{
+    padding: 15px;
+    margin: 15px;
+    
+}
+/* Baree de navigation */
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: #C55394;
+    margin: 15px;
+    color: #fff;
+    
+}
+.h2{
+   margin-left: 15px;
+
+
+}
+nav .onglets{
+    padding: 10px 5px; 
+    margin: 15px 25px;
+    font-size: 10px;
+    cursor: pointer;
+    text-align: center; 
+            
+}
+nav .onglets a{
+     margin-right: 20px; 
+}
+a:hover{
+    background-color: #EB43A3
+}
+/* Fin de la barre de navigation*/
+
+/* Partie header*/
+    header h1{
+        background:url('/Users/ODEFI-2/Desktop/rainbow.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        margin-top: 50px;
+        font-family:'Courgette', cursive; 
+        text-align: center;
+        padding: 110px;
+        font-size: 30px; 
+        color:#C55394 ;
+
+    }
+    h3{
+        font-family:'Courgette', cursive;  
+        color:#EB43A3 ;
+        font-size: 20px;
+    
+           
+    }
+     .text{
+        border: 5px groove;
+        border-radius: 10px;
+        color:#333  ;
+        padding: 30px;
+        margin: 30px 50px;
+        box-shadow: 0px 3px 20px rgb(36, 34,34 );
+        background-color: white;
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-top: -100px;
+    }
+    h4{
+        font-family:'Courgette', cursive; 
+        color:#EB43A3;
+        font-size: 20px;
+    }
+    div figure{
+        position: relative;
+        display: inline-block;
+        margin: 0px auto;
+        
+   
+    }
+    figcaption{
+        position: relative;
+        background-color: black;
+        opacity: 80%;
+        margin-top: -20px;
+        color:white ;
+        text-align: center
+    }
+    h4{
+        font-family:'Courgette', cursive; 
+        color: #EB43A3 ;
+        font-size: 20px;
+    }
+    h5{
+        
+        font-family:'Courgette', cursive; 
+        color: #EB43A3 ;
+        font-size: 11px;
+    }
+    h6{ 
+        font-family:'Courgette', cursive; 
+        color: #EB43A3 ;
+        font-size: 11px;
+    }
+    button{ 
+        background-color: #EB43A3;
+        border-radius: 3px;
+        border-style: hidden;
+        
+    }
+    .paragraphe{
+        float: right;
+        margin-right: 310px;
+       margin-bottom: 100px;
+        font-size: 11px;
+    
+    }
+}        
+    
+/*fin de la partie Header*/
+
+/*Pied de page*/ 
+    footer{ 
+        background-color: #E577B5;
+        color: #fff;
+        margin: 10px;
+        padding: 10px;
+    }
+    .nav{
+        margin-right: 0px;
+        text-align: right;
+    }
+    
+/*Fin de la Pied du page*/
