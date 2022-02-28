@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#page{
+    background:url('/Users/ODEFI-2/Desktop/Nouveau dossier/img/header_bg.jpg') ;
+}
+/*Barre de navigation*/
+nav{
+    color : #fff; 
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0%;
+    top: 0;
+    padding: 20px;
+}
+.link{
+    padding: 20px;
+    margin-right: 150px; 
+}
+/*Partie de Header*/
+Header{
+    color: #fff;
+}
+h2{
+    font-family: Open Sans, Arial, sans-serif;
+    display: flex; 
+    margin-left: 800px;
+    font-size: 30px;
+    color: #fff;
+}
+h5{
+    font-family: Open Sans, Arial, sans-serif;
+    margin-left: 850px;
+    font-size: 13px;
+}
+
+button.uno{
+    margin-left: 885px;
+    border-radius:30px ;
+    border-style: hidden;
+    background-color: #3d9f96;
+    padding:1% 4%;
+    
+}
+div.text{
+    font-family: Open Sans, Arial, sans-serif;
+    color: #ababab;;
+    font-size: 15px;
+    margin-left: 820px; ;   
+}
+div.txt{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 900px; ;   
+}
+div.txte{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 800px; ;   
+}
+.SAYNA1{
+    margin-left:-350px;
+
+}
+.ORDINATEUR{
+    margin-left:670px;
+
+}
+/*Fin du Header*/
+.images{
+    margin-left:675px;
+}
+.images img{
+    padding: 20px;
+}
+div.add{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#3d9f96;
+    font-size: 15px;
+    margin-left: 900px; ;
+}
+h3{
+    font-family: Open Sans, Arial, sans-serif;
+    margin-left: 850px;
+    font-size: 25px;
+}
+div.unit{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 750px;
+}
+div.unite{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 750px;
+}
+div.colonnes{
+    display: inline-block;
+    flex-wrap: wrap;
+    margin-left: 550px;
+    margin-right: 550px;
+    justify-content: space-between;
+}
+div.first-block{
+    background: url('/Users/ODEFI-2/Desktop/Nouveau dossier/img/header_bg.jpg');
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';
+    color:#3d9f96;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px 200px;
+  
+}
+div.screenshots{
+    display: inline-block;
+    background: url('map_bg.png');
+    background-color: #f7f7f7 ;
+    margin-left: 100px;
+}
+.shoot1{
+    margin-left: -40px;
+}
+.shoot2{
+    margin-left: -70px;
+}
+.shoot3{
+    margin-left: -70px;
+}
+div.capture{
+    margin-left: 100px;
+}
+button.Due{
+    border-radius:30px ;
+    border-style: hidden;
+    background-color: #3d9f96;
+    padding:1% 4%;
+}
+div.phrase{
+    color:#ababab
+}
+div.side{
+    float: right;
+}
+div.paramots{
+    float: left;
+    color:#ababab
+    
+}
+button.trio{
+    border-radius:30px ;
+    border-style: hidden;
+    background-color: #3d9f96;
+    padding:1% 4%;
+}
+/*Partie du Footer*/
+.bottom{
+    color: #ababab;
+}
+.help{
+    color: #ababab;
+}
+.list{
+    color: #ababab;
+}
+.all-list{
+    background: url('map_bg.png');
+    background-color: #f7f7f7;
+    display: inline-flex;
+
+}
+.foot2{
+    margin-left: 100px ;
+}
+div.foot3{
+    margin-left: 100px;
+}
+.foot4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: #ababab;
+}
+.pic1{
+    margin-right: 10px;
+}
+.pic2{
+    margin-right: 10px;
+}
+.pic3{
+    margin-right: 10px;
+}
+.pic4{
+    margin-right: 110px;
+}
+

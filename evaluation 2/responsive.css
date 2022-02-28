@@ -1,0 +1,118 @@
+@media(max-width:710px){
+
+#page nav a{
+    display: none;
+}
+.SAYNA1{
+    margin-left: 200px;
+}
+Header h2{
+    margin-left: 180px;
+
+}
+header h5{
+    margin-left: 230px;
+}
+Header .text{
+    margin-left: 220px;
+}
+Header .txt{
+    margin-left: 250px;
+}
+Header .txte{
+    margin-left: 155px;
+}
+Header .uno{
+    margin-left: 250px;
+}
+Header .ORDINATEUR{
+    margin: 40px; 
+    margin-bottom: 0 ; 
+}
+.images{
+    display: flex;
+    margin: 0;
+    padding-left: 60px;
+}
+.add p{
+    display: none;
+}
+.checking{
+    margin-left: -650px;  
+}
+.unit p{
+    margin-left: -600px;
+}
+.unite p{
+    margin-left: -580px;
+}
+.colonne1{
+    margin-left: -350px;
+}
+.colonne{
+    margin-left: -300px;
+}
+.colonne2{
+    margin-left: -350px ;
+}
+.colonnes p{
+    display: inline-flex;
+}
+.minitxt{
+    margin-left: -70px;
+}
+.first-block{
+   margin-left: -500px;
+   margin-right: 400px;
+}
+.capture p{
+    margin-left: -400px;
+}
+.screenshoots{
+    display: none;
+}
+.shoot1{
+    margin-left: -460px;
+}
+.shoot2{
+    margin-left: -460px;
+}
+.shoot3{
+    margin-left: -460px;
+}
+.tag{
+    margin-left: -320px;
+}
+.pub{
+    float: none;
+}
+.third-block h1{
+    float: none;
+    margin-left: -380px;
+    padding: 10%;
+}
+.paramots{
+    float: none;
+    margin-left: -300px;
+}
+.pic{
+    float: none;
+    margin-left: -900px;
+    padding: 70%;
+}
+.trio{
+    float: none;
+    margin-left: -700px;
+    
+}
+.foot1{
+    margin-left: -350px;
+}
+
+}
+.foot3{
+    margin-left: -300px;  
+}
+.foot4{
+    margin-left: -170px;
+}
